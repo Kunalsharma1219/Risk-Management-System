@@ -1,0 +1,11 @@
+venv/
+env/
+__pycache__/
+.DS_Store
+
+# Ignore ML Data and Models
+data/
+models/
+*.csv
+*.pt
+*.pkl
