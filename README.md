@@ -134,8 +134,8 @@ Technologies Used
 Installation
 
 Clone the Repository
-git clone https://github.com/<username>/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/Kunalsharma1219/Risk-Management-System.git
+cd Risk-Management-System
 Create a Virtual Environment
 python3 -m venv venv
 Activate the environment:
